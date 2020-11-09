@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+### 个人信息
+#### 姓    名： 陈霁皓
+#### 婚姻状况： 未婚
+#### 学    历： 本科
+#### 邮    件： cjh775077403@126.com
+#### 工作地址： 江苏-无锡
 
-You can use the [editor on GitHub](https://github.com/kaka-chan/Repository-name/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### 求职意向
+#### 期望薪资：8000~10000（到手收入）
+#### 职    位：互联网软件开发工程师 软件工程师
+#### 职    能：网站后端开发 AI图像服务开发 视频服务开发 爬虫（数据采集+清洗入库）
+#### 到岗时间：一个月
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 技能
+语言：Python
+数据库：MySQL
+操作系统：Ubuntu、Centos等Linux系统
 
-### Markdown
+### 自我评价
+1、精通Python、MySQL、Redis、Kafka、HDFS、OpenCV、FFmpeg等后端技术。
+2、精通Tornado、Flask、FastAPI等Python开发框架。
+3、高效的自学能力，具备独立分析解决问题的能力。
+4、根据业务需求，设计合适的工程项目。
+5、高度组件化、模块化的思维。
+6、注重开发质量，架构及代码设计，考虑可维护性、扩展性。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kaka-chan/Repository-name/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 技术栈
+Python， MySQL， Tornado， Flask， FastAPI， OpenCV， FFmpeg， QT， 小程序开发， 微信后台开发， git
